@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jogamp.jogl:jogl-all:natives-solaris-i586:2.1.4-rc-20140109">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jogamp/jogl/jogl-all/2.1.4-rc-20140109/jogl-all-2.1.4-rc-20140109-natives-solaris-i586.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jogamp/jogl/jogl-all/2.1.4-rc-20140109/jogl-all-2.1.4-rc-20140109-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jogamp/jogl/jogl-all/2.1.4-rc-20140109/jogl-all-2.1.4-rc-20140109-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

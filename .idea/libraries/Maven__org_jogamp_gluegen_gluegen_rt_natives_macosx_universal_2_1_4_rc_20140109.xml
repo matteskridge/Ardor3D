@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jogamp.gluegen:gluegen-rt:natives-macosx-universal:2.1.4-rc-20140109">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jogamp/gluegen/gluegen-rt/2.1.4-rc-20140109/gluegen-rt-2.1.4-rc-20140109-natives-macosx-universal.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jogamp/gluegen/gluegen-rt/2.1.4-rc-20140109/gluegen-rt-2.1.4-rc-20140109-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jogamp/gluegen/gluegen-rt/2.1.4-rc-20140109/gluegen-rt-2.1.4-rc-20140109-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

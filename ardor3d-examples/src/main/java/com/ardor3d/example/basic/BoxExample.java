@@ -78,13 +78,13 @@ public class BoxExample extends ExampleBase {
         _root.attachChild(box);
 
         // Add a texture to the box.
-        final TextureState ts = new TextureState();
-        ts.setTexture(TextureManager.load("images/ardor3d_white_256.jpg", Texture.MinificationFilter.Trilinear, true));
-        box.setRenderState(ts);
+        //final TextureState ts = new TextureState();
+        //ts.setTexture(TextureManager.load("images/ardor3d_white_256.jpg", Texture.MinificationFilter.Trilinear, true));
+        //box.setRenderState(ts);
 
         // Add a material to the box, to show both vertex color and lighting/shading.
-        final MaterialState ms = new MaterialState();
-        ms.setColorMaterial(ColorMaterial.Diffuse);
-        box.setRenderState(ms);
+        //final MaterialState ms = new MaterialState();
+        //ms.setColorMaterial(ColorMaterial.Diffuse);
+        //box.setRenderState(ms);
     }
 }
